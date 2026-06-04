@@ -6,7 +6,8 @@
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="<img width="480" height="520" alt="image" src="https://github.com/user-attachments/assets/af077bdf-2e2d-465b-84f1-43d143aba691" />
+"/>
 
 ```python
 class Sangamithra:
