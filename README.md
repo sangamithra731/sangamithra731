@@ -1,18 +1,28 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sangamithra%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Engineer%20%7C%20Java%20%26%20Python%20Developer%20%7C%20Problem%20Solver&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,7,10&height=200&section=header&text=Hi,%20I'm%20Sangamithra%20K!%20%E2%9C%A8&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Engineer%20%F0%9F%92%95%20Java%20%26%20Python%20Developer%20%F0%9F%8C%B8%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sangamithra+%F0%9F%91%8B;Computer+Science+Engineering+Student;Java+%7C+Python+%7C+C%2B%2B+Developer;DSA+%7C+OOP+%7C+Problem+Solver" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F78DA7&center=true&vCenter=true&width=750&lines=Welcome+to+my+profile+%F0%9F%8E%80;CS+Engineering+Student+%F0%9F%8C%B7;Java+%7C+Python+%7C+C%2B%2B+Developer;DSA+%7C+OOP+%7C+Problem+Solver+%F0%9F%92%AB" alt="Typing SVG"/>
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://media.giphy.com/media/hpAJsHOgmMYIc/giphy.gif" width="230">
+</p>
 
-<img align="right" width="380" src="" />
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=sangamithra731&label=Profile%20Views&color=f78da7&style=for-the-badge)
+  ![Followers](https://img.shields.io/github/followers/sangamithra731?label=Followers&style=for-the-badge&color=e0aaff)
 
+</div>
+
+---
+
+### 🌸 About Me
 
 ```python
 class Sangamithra:
     def __init__(self):
-        self.name        = "Sangamithra K"
+        self.name        = "Sangamithra K 🎀"
         self.location    = "Karur, Tamil Nadu, India"
         self.degree      = "B.E. Computer Science & Engineering (2024–2028)"
         self.college     = "V.S.B Engineering College"
@@ -21,91 +31,92 @@ class Sangamithra:
         self.concepts    = ["Data Structures", "OOP", "Git"]
         self.learning    = ["Advanced DSA", "Web Dev", "Cloud Basics"]
         self.hobbies     = ["Coding Challenges", "Problem Solving"]
-        self.fun_fact    = "I debug code like I solve puzzles — one clue at a time 🔍"
+        self.fun_fact    = "I debug code like I solve puzzles — one clue at a time 🔍💗"
 
     def motto(self):
-        return "Learn continuously. Build relentlessly. Grow daily. 🚀"
+        return "Learn continuously. Build relentlessly. Grow daily. 🌷"
 
 me = Sangamithra()
 print(me.motto())
 ```
 
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 Currently pursuing my **B.E in Computer Science Engineering**
+- 💻 Passionate about **Java, Python & problem solving**
+- 🧠 Sharpening my skills daily through **DSA & coding challenges**
+- 🌱 Exploring **Web Development** and **Cloud Basics**
+- 💌 Reach me: **sangamithra200731@gmail.com**
+
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-### 📚 Core Concepts & Frameworks
-![Data Structures](https://img.shields.io/badge/Data%20Structures-102230?style=flat-square&logo=databricks&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-6DB33F?style=flat-square&logo=buffer&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=flat-square&logo=thealgorithms&logoColor=white)
-
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)
-
-### ☁️ Certifications & Platforms
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-222222?style=flat-square&logo=raspberrypi&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+### 💗 Tech Stack
 
 <div align="center">
-  <a href="https://github.com/sangamithra731">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=sangamithra731&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/sangamithra731">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangamithra731&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-F78DA7?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-E0AAFF?style=for-the-badge&logo=python&logoColor=333)
+![C](https://img.shields.io/badge/C-FFC8DD?style=for-the-badge&logo=c&logoColor=333)
+![C++](https://img.shields.io/badge/C%2B%2B-FFAFCC?style=for-the-badge&logo=cplusplus&logoColor=333)
+![HTML5](https://img.shields.io/badge/HTML5-BDE0FE?style=for-the-badge&logo=html5&logoColor=333)
+
+**Concepts & Tools**
+
+![Data Structures](https://img.shields.io/badge/Data%20Structures-CDB4DB-pink?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-FFC8DD?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F78DA7?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-E0AAFF?style=for-the-badge&logo=github&logoColor=333)
+![VS Code](https://img.shields.io/badge/VS%20Code-BDE0FE?style=for-the-badge&logo=visualstudiocode&logoColor=333)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFAFCC?style=for-the-badge&logo=leetcode&logoColor=333)
+
+**Certifications**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-FFC8DD?style=for-the-badge&logo=salesforce&logoColor=333)
+![IoT](https://img.shields.io/badge/IoT-CDB4DB?style=for-the-badge&logo=raspberrypi&logoColor=333)
+
 </div>
 
 ---
 
-## 🔥 Streak Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sangamithra731&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sangamithra731&show_icons=true&theme=radical&hide_border=true&bg_color=2b1b2e&title_color=f78da7&icon_color=e0aaff&text_color=ffe5ec&border_radius=15&count_private=true&include_all_commits=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangamithra731&layout=compact&theme=radical&hide_border=true&bg_color=2b1b2e&title_color=f78da7&text_color=ffe5ec&border_radius=15&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sangamithra731&theme=radical&hide_border=true&background=2B1B2E&ring=F78DA7&fire=E0AAFF&currStreakLabel=F78DA7&sideLabels=FFAFCC&dates=FFE5EC&currStreakNum=FFE5EC&sideNums=FFE5EC&stroke=2B1B2E&border_radius=15" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangamithra731&theme=redical&bg_color=2b1b2e&color=f78da7&line=e0aaff&point=ffe5ec&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
 
-## 📈 Activity Graph
+### 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sangamithra731&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sangamithra731&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
 </div>
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:998/1*Ghw_YUqLRjD6LJTQHff06Q.png?username=sangamithra731&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-</div>
-
----
-
-## 💼 Work Experience
+### 💼 Work Experience
 
 <details>
-<summary>🏢 <b>Software Engineer – Fresher</b> | Karur, Tamil Nadu</summary>
+<summary>🎀 <b>Software Engineer – Fresher</b> | Karur, Tamil Nadu</summary>
+<br>
 
-> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-> ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+> ![Java](https://img.shields.io/badge/Java-F78DA7?style=flat-square&logo=openjdk&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-E0AAFF?style=flat-square&logo=python&logoColor=333)
+> ![Git](https://img.shields.io/badge/Git-FFC8DD?style=flat-square&logo=git&logoColor=333)
+> ![LeetCode](https://img.shields.io/badge/LeetCode-FFAFCC?style=flat-square&logo=leetcode&logoColor=333)
 
 - 🔨 Built multiple software projects using **Java** and **Python**, applying core OOP design principles
 - 🧩 Implemented **data structures** (stacks, queues, linked lists) and OOP concepts across project modules
@@ -116,12 +127,12 @@ print(me.motto())
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
-|---------|-------|------------|
+|:---:|:---:|:---|
 | 📚 [**Library Management System**](https://github.com/sangamithra731) | `Python` `CLI` | CLI-based system with Librarian & Student roles, secure login, managed **50+ book records** with automated updates & tracking |
 | 🍽️ [**Hotel Menu Billing System**](https://github.com/sangamithra731) | `Java` `Console` | Console app simulating hotel menu & billing using switch-case and conditional logic |
 | 🏧 [**ATM Simulator**](https://github.com/sangamithra731) | `Java` `SimpleDateFormat` | Supports deposit, withdrawal (daily limit), real-time balance inquiry; processed **100+ transactions** with accurate balance tracking & timestamped history |
@@ -130,12 +141,12 @@ print(me.motto())
 
 ---
 
-## 🏅 Achievements
+### 🎗️ Achievements
 
 <div align="center">
 
 | | Achievement | Details |
-|---|-------------|---------|
+|:---:|:---|:---|
 | 🎓 | **Academic Excellence** | CGPA **9.0 / 10** in B.E. CSE at V.S.B Engineering College |
 | 🐍 | **Python Programming Certification** | Completed certified Python programming course |
 | 🌐 | **IoT & Digital Transformation** | Certified in Introduction to IoT and Digital Transformation |
@@ -148,19 +159,19 @@ print(me.motto())
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
 <div align="center">
 
 | Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| B.E. – Computer Science & Engineering | V.S.B Engineering College, Karur, Tamil Nadu | 2024 – 2028 | **CGPA 9.0** |
+|:---|:---|:---:|:---:|
+| B.E. – Computer Science & Engineering | V.S.B Engineering College, Karur, Tamil Nadu | 2024 – 2028 | **CGPA 9.0** 🌟 |
 
 </div>
 
 ---
 
-## 🧱 Currently Learning
+### 🌷 Currently Learning
 
 ```
 🧱 Advanced Java        → Collections, Multithreading, JDBC
@@ -174,19 +185,19 @@ print(me.motto())
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sangamithra731&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  <img src="https://media.giphy.com/media/xUOxfjsdEugbXpxHfe/giphy.gif" width="180">
   <br/><br/>
-  <i>"Learn continuously. Build relentlessly. Grow daily. 🚀"</i>
+  <i>"Learn continuously. Build relentlessly. Grow daily." 🌸</i>
   <br/><br/>
   <a href="mailto:sangamithra200731@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-F78DA7?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/sangamithra-karthikeyan-684b91329">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-E0AAFF?style=for-the-badge&logo=linkedin&logoColor=333"/>
   </a>
   <a href="https://github.com/sangamithra731">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-FFC8DD?style=for-the-badge&logo=github&logoColor=333"/>
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,7,10&height=120&section=footer&animation=twinkling" width="100%"/>
